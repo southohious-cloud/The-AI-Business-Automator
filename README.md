@@ -1,4 +1,4 @@
-# 🧩GregoryArmstonPracticeFiles
+# 🧩Gregory Armston Practice Files
 
 A minimal workspace for my CS50P practice variations.  
 This repository contains alternate versions of exercises where CS50P encourages multiple approaches, or where I explore different solutions for deeper understanding.  
