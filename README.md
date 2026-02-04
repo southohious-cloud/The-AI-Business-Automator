@@ -43,7 +43,7 @@ A minimal workspace for my CS50P practice variations. This repository contains a
 ### 🎭 Animation & Assets
 - [**costumes/**](costumes) — Pillow animation practice and GIF assets  
 
-### 🔍 Regular Expressions Practice
+### 🔍 Regular Expressions 
 - [**groups.py**](groups.py) — explores capture groups and named groups  
 - [**twitter.py**](twitter.py) — extracts Twitter usernames from URLs  
 - [**code.py**](code.py) — validates hexadecimal color codes  
