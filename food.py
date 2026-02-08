@@ -8,7 +8,6 @@ class Food:
         self.ingredients = ingredients
 
         if hearts is not None:
-            # Explicit hearts override calculation
             self.hearts = hearts
         else:
             self.hearts = Food.calculate_hearts(ingredients)
